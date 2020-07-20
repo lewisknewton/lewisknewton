@@ -3,7 +3,7 @@
 I'm a...
 
 - :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb)) 
-- :books: Computing student the University of Portsmouth ([@portsoc](https://github.com/portsoc))
+- :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
 - :trophy: Web Technologies Squad UK competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
 
 I've worked on...
