@@ -8,7 +8,7 @@ I'm a...
 
 I've worked on...
 
-- :house_with_garden: [InventoryBase](https://inventorybase.co.uk/) with Radweb (June 2020 – Present)
+- :house_with_garden: [InventoryBase](https://inventorybase.co.uk/) with Radweb (June 2020 – September 2021)
 - :bar_chart: _ACRE-SHAPE_ with the University of Portsmouth (September 2019 – June 2020)
 - :potable_water: [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth (June 2019 – June 2020)
 
