@@ -2,14 +2,18 @@
 
 I'm a...
 
-- :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb)) 
 - :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
 - :trophy: Web Technologies Squad UK competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
+
+I've been a...
+
+- :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb))
+- :test_tube: Research assistant (developer) at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
 
 I've worked on...
 
 - :house_with_garden: [InventoryBase](https://inventorybase.co.uk/) with Radweb (June 2020 – September 2021)
-- :bar_chart: _ACRE-SHAPE_ with the University of Portsmouth (September 2019 – June 2020)
+- :bar*chart: \_ACRE-SHAPE* with the University of Portsmouth (September 2019 – June 2020)
 - :potable_water: [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth (June 2019 – June 2020)
 
 See me on...
