@@ -2,11 +2,12 @@
 
 I'm a...
 
-- :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
-- :trophy: Web Technologies Squad UK competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
+- :computer: Developer at Radweb ([@radweb](https://github.com/radweb))
+- :trophy: Web Technologies competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
 
 I've been a...
 
+- :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
 - :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb))
 - :test_tube: Research assistant (developer) at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
 
