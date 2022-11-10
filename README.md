@@ -7,15 +7,15 @@ I'm a...
 
 I've been a...
 
-- :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
-- :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb))
-- :test_tube: Research assistant (developer) at the University of Portsmouth ([@portsoc](https://github.com/portsoc))
+- :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc); September 2018 – June 2022)
+- :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb); June 2020 – September 2021)
+- :test_tube: Research assistant (developer) at the University of Portsmouth ([@portsoc](https://github.com/portsoc); June 2019 – June 2020)
 
 I've worked on...
 
-- :house_with_garden: [InventoryBase](https://inventorybase.co.uk/) with Radweb (June 2020 – September 2021)
-- :bar_chart: _ACRE-SHAPE_ with the University of Portsmouth (September 2019 – June 2020)
-- :potable_water: [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth (June 2019 – June 2020)
+- :house_with_garden: [InventoryBase](https://inventorybase.co.uk/) with Radweb ([@radweb](https://github.com/radweb); June 2020 – Present)
+- :bar_chart: _ACRE-SHAPE_ with the University of Portsmouth ([@portsoc](https://github.com/portsoc); September 2019 – June 2020)
+- :potable_water: [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth ([@portsoc](https://github.com/portsoc); June 2019 – June 2020)
 
 See me on...
 
