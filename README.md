@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a...
-
-- :computer: Developer at Radweb ([@radweb](https://github.com/radweb))
-- :trophy: Web Technologies competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
+I'm a Developer at Radweb ([@radweb](https://github.com/radweb)), primarily working on [InventoryBase](https://inventorybase.co.uk/).
 
 I've been a...
 
+- :trophy: Web Technologies competitor at [WorldSkills UK](https://www.worldskillsuk.org/)
 - :books: Computing student at the University of Portsmouth ([@portsoc](https://github.com/portsoc); September 2018 – June 2022)
 - :computer: Developer on an industrial placement at Radweb ([@radweb](https://github.com/radweb); June 2020 – September 2021)
 - :test_tube: Research assistant (developer) at the University of Portsmouth ([@portsoc](https://github.com/portsoc); June 2019 – June 2020)
