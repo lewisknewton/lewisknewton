@@ -19,7 +19,6 @@ See me on...
 
 - :seedling: Personal website: [lewisknewton.com](http://lewisknewton.com/)
 - :necktie: LinkedIn: [@lewisknewton](https://www.linkedin.com/in/lewisknewton)
-- :bird: Twitter: [@LewisKNewton](https://twitter.com/LewisKNewton)
 
 <!--
 **lewisknewton/lewisknewton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
